@@ -1,0 +1,38 @@
+:root {
+  --fonte: 'Montserrat', sans-serif;
+  --branco: #FFFFFF;
+  --preto: #000000;
+  --cinza: #E2E2E2;
+}
+
+body {
+  margin: 0;
+  font-family: var(--fonte);
+  background-color: var(--branco);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#root {
+    height: 100%;
+}
+
+.layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.layout > main {
+    flex: 1;
+}
