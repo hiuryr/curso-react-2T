@@ -28,5 +28,5 @@ Este projeto foi criado com o objetivo de consolidar o aprendizado de React em u
 - **Backend**: Mock, utilizando my-json-server.
 - **Frontend**: Desenvolvido exclusivamente com React, utilizando componentes funcionais, hooks e rotas para navegação entre as abas do sistema.
 
-<!-- ## Demonstração -->
-<!-- ![Simulação de Corrida](https://github.com/hiurydev/mariokart-project/blob/main/mkart_frontend/public/gifs/preview.gif?raw=true) -->
+## Demonstração
+- https://curso-react-2-t.vercel.app/
